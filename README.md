@@ -14,5 +14,5 @@ actions spécifiques qui sont :
 ```bash  
 git clone https://github.com/sbeteta42/import_bulk_Users-Groupes_OU_ActiveDirectory.git
 cd import_bulk_Users-Groupes_OU_ActiveDirectory 
-start install.bat
+install.bat
 ```
