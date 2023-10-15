@@ -8,7 +8,7 @@ actions spécifiques qui sont :
 - l'import de comptes d'utilisateurs à partir d'un fichier .csv
 - la création de groupes et l'attribution d'utilisateurs à des groupes
 - Un document PDF 00- TP_import_powershell.pdf est la pour vous aider à comprendre les scripts
-- Les scripts PS1 doivent être executés l'un après l'autre (01-..; 02-..)
+- Les scripts PS1 doivent être executés l'un après l'autre (01-..; 02-..) en double-cliquant dessus ou via la console PowerShell
 
 # Installation
 ```bash  
