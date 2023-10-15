@@ -13,5 +13,6 @@ actions spécifiques qui sont :
 # Installation
 ```bash  
 git clone https://github.com/sbeteta42/import_bulk_Users-Groupes_OU_ActiveDirectory.git
-./install.bat
+cd import_bulk_Users-Groupes_OU_ActiveDirectory 
+start install.bat
 ```
