@@ -9,5 +9,7 @@ actions spécifiques qui sont :
 - la création de groupes et l'attribution d'utilisateurs à des groupes
 
 # Installation
-'
-git clone 
+''
+git clone https://github.com/sbeteta42/import_bulk_Users-Groupes_OU_ActiveDirectory.git
+./install.bat
+''
