@@ -7,3 +7,7 @@ actions spécifiques qui sont :
 - la création d'Unités d'Organisations
 - l'import de comptes d'utilisateurs à partir d'un fichier .csv
 - la création de groupes et l'attribution d'utilisateurs à des groupes
+
+# Installation
+'
+git clone 
